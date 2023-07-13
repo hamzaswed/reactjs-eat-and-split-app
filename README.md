@@ -15,7 +15,7 @@ A app built using HTML, CSS and JavaScript(Reactjs)
 
 ### Screenshot
 
-![image](./Vite%20+%20React.png)
+![image](./Vite-React.png)
 
 ## Author
 
